@@ -29,5 +29,5 @@ Program Run Instructions:
 - Activate virtual envrionment:
   - Windows: enter .venv/Scripts/Activate 
   - Linux: enter .venv/bin/activate
-  - Mac: source enter .venv/bin/activate
+  - Mac: enter source .venv/bin/activate
 - Run program with { python pokedex.py }
