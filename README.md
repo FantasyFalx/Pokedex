@@ -1,6 +1,6 @@
 Pokedex Python Project V.1.0
 
-![Screenshot 2024-01-08 134655](https://github.com/FantasyFalx/Pokedex/assets/83202773/46fc4c5f-db14-4c0c-96a8-4e47913c326f)
+![Alt text](image.png)
 
 Description: 
 
