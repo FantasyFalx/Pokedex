@@ -31,5 +31,4 @@ def poke_grabber(user_input) -> []:
     return poke_container
 
  
-print(type(poke_grabber("mew")[2])) 
 
